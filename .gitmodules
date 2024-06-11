@@ -1,12 +1,15 @@
 [submodule "internal/service/collectionservice"]
 	path = internal/service/collectionservice
-	url = git@github.com:zhshih/collectionservice.git
+	url = git@github.com:zhshih/collectionservice
 [submodule "internal/service/dataservice"]
 	path = internal/service/dataservice
 	url = git@github.com:zhshih/dataservice
-[submodule "cloudservice"]
-	path = cloudservice
-	url = git@github.com:zhshih/cloudservice
 [submodule "internal/service/cloudservice"]
 	path = internal/service/cloudservice
 	url = git@github.com:zhshih/cloudservice
+[submodule "internal/service/controlservice"]
+	path = internal/service/controlservice
+	url = git@github.com:zhshih/controlservice
+[submodule "internal/service/monitorservice"]
+	path = internal/service/monitorservice
+	url = git@github.com:zhshih/monitorservie
